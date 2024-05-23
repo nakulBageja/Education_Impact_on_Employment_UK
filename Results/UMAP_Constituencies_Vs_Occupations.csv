@@ -1,0 +1,574 @@
+,Westminster Parliamentary constituencies,X,Y
+0,Aberavon,10.186237,1.7638961
+1,Aberconwy,9.489779,1.3004847
+2,Aldershot,7.983085,7.718747
+3,Aldridge-Brownhills,7.927135,1.9555603
+4,Altrincham and Sale West,4.8226285,2.657102
+5,Alyn and Deeside,11.427813,5.973027
+6,Amber Valley,11.33976,5.983244
+7,Arfon,9.450035,1.3032113
+8,Arundel and South Downs,6.119688,3.8436258
+9,Ashfield,10.250313,7.8301673
+10,Ashford,7.89879,7.7869945
+11,Ashton-under-Lyne,10.431971,5.879421
+12,Aylesbury,7.131019,7.851109
+13,Banbury,7.7791033,8.446846
+14,Barking,8.699245,9.150621
+15,Barnsley Central,11.119764,7.080879
+16,Barnsley East,11.193133,7.5469604
+17,Barrow and Furness,8.909303,2.58342
+18,Basildon and Billericay,6.958044,4.5154843
+19,Basingstoke,7.37739,8.04345
+20,Bassetlaw,10.104736,7.938802
+21,Bath,6.8322873,1.7647419
+22,Batley and Spen,10.18136,6.410905
+23,Battersea,3.32997,4.6925535
+24,Beaconsfield,4.2246356,3.8530915
+25,Beckenham,5.2149596,2.703451
+26,Bedford,9.882244,7.9409165
+27,Bermondsey and Old Southwark,3.0126987,5.632373
+28,Berwick-upon-Tweed,9.44231,1.6448505
+29,Bethnal Green and Bow,3.053845,5.534013
+30,Beverley and Holderness,8.306719,3.486669
+31,Bexhill and Battle,8.311615,3.2454813
+32,Bexleyheath and Crayford,6.644408,4.5536075
+33,Birkenhead,11.152936,4.394985
+34,"Birmingham, Edgbaston",9.77711,2.902567
+35,"Birmingham, Erdington",12.181996,7.9835734
+36,"Birmingham, Hall Green",12.407572,7.863184
+37,"Birmingham, Hodge Hill",12.457985,8.009048
+38,"Birmingham, Ladywood",12.504143,7.918195
+39,"Birmingham, Northfield",9.81489,6.862485
+40,"Birmingham, Perry Barr",12.294624,8.065229
+41,"Birmingham, Selly Oak",9.722898,3.004865
+42,"Birmingham, Yardley",12.213469,8.207101
+43,Bishop Auckland,10.722442,3.2895935
+44,Blackburn,12.173524,8.245728
+45,Blackley and Broughton,12.099752,8.351785
+46,Blackpool North and Cleveleys,10.805434,3.8313348
+47,Blackpool South,11.153687,3.9865568
+48,Blaenau Gwent,10.316386,1.7964171
+49,Blaydon,10.303548,3.7264566
+50,Blyth Valley,10.525559,3.774861
+51,Bognor Regis and Littlehampton,8.791933,7.4507008
+52,Bolsover,10.221723,7.816426
+53,Bolton North East,11.159965,5.1208754
+54,Bolton South East,12.08514,8.182805
+55,Bolton West,8.47789,4.270574
+56,Bootle,9.637553,7.2670584
+57,Boston and Skegness,10.310409,8.591937
+58,Bosworth,7.0648227,5.9872885
+59,Bournemouth East,9.028286,5.804752
+60,Bournemouth West,9.161072,5.6902237
+61,Bracknell,5.328489,5.9213076
+62,Bradford East,12.310724,8.201249
+63,Bradford South,9.9382925,7.3514194
+64,Bradford West,12.412743,8.047605
+65,Braintree,8.318471,6.150074
+66,Brecon and Radnorshire,9.33942,1.3856134
+67,Brent Central,8.68471,9.106339
+68,Brent North,8.640687,9.176476
+69,Brentford and Isleworth,7.3780336,8.2553005
+70,Brentwood and Ongar,5.4703827,3.2406716
+71,Bridgend,10.06026,3.053223
+72,Bridgwater and West Somerset,8.707045,7.3413334
+73,Brigg and Goole,11.504111,5.932224
+74,"Brighton, Kemptown",9.522915,3.2423928
+75,"Brighton, Pavilion",4.9538026,3.455951
+76,Bristol East,7.7886443,7.012068
+77,Bristol North West,9.043774,3.79334
+78,Bristol South,7.678029,7.891518
+79,Bristol West,3.1237469,5.1673613
+80,Broadland,7.6766963,4.627388
+81,Bromley and Chislehurst,5.299878,2.839713
+82,Bromsgrove,5.5171375,3.2170262
+83,Broxbourne,6.8467937,5.9069524
+84,Broxtowe,6.5577636,3.0368307
+85,Buckingham,4.5180516,4.1783047
+86,Burnley,11.400591,6.8342037
+87,Burton,9.910058,8.4327965
+88,Bury North,9.866156,3.5263598
+89,Bury South,8.376022,4.3436885
+90,Bury St Edmunds,7.3746486,7.3171034
+91,Caerphilly,10.431834,3.5409791
+92,Calder Valley,7.0361786,4.6146855
+93,Camberwell and Peckham,2.987005,5.683797
+94,Camborne and Redruth,9.328747,5.0576973
+95,Cambridge,3.2436686,4.974642
+96,Cannock Chase,8.894129,6.729155
+97,Canterbury,9.351108,3.180751
+98,Cardiff Central,9.761429,2.379474
+99,Cardiff North,4.974784,2.4801655
+100,Cardiff South and Penarth,9.574848,6.9314203
+101,Cardiff West,9.426347,3.2086706
+102,Carlisle,11.466041,6.1937513
+103,Carmarthen East and Dinefwr,9.34306,1.5279571
+104,Carmarthen West and South Pembrokeshire,9.218773,1.7791921
+105,Carshalton and Wallington,6.4955335,5.644159
+106,Castle Point,7.6752934,3.4933698
+107,Central Devon,8.468713,2.9774628
+108,Central Suffolk and North Ipswich,7.2861047,4.515046
+109,Ceredigion,9.418802,1.2737434
+110,Charnwood,6.808046,5.3619027
+111,Chatham and Aylesford,8.750966,6.5044446
+112,Cheadle,4.920067,2.590906
+113,Chelmsford,6.243383,5.5339556
+114,Chelsea and Fulham,3.2183993,4.1994085
+115,Cheltenham,6.2160063,5.394336
+116,Chesham and Amersham,4.707093,2.7465198
+117,Chesterfield,10.355909,5.005194
+118,Chichester,6.6452985,4.3310857
+119,Chingford and Woodford Green,6.108444,3.3654616
+120,Chippenham,7.037252,4.733201
+121,Chipping Barnet,4.520622,4.755113
+122,Chorley,7.1831155,5.536577
+123,Christchurch,7.3248744,1.8201092
+124,Cities of London and Westminster,3.1219025,4.312968
+125,City of Chester,9.240045,3.5388134
+126,City of Durham,9.917311,2.8448675
+127,Clacton,11.096774,3.684389
+128,Cleethorpes,11.462235,6.009736
+129,Clwyd South,9.9786415,1.7683043
+130,Clwyd West,9.561188,1.539861
+131,Colchester,8.01347,7.705945
+132,Colne Valley,7.1837287,5.4876075
+133,Congleton,5.7390637,3.8295205
+134,Copeland,9.621009,1.8138387
+135,Corby,9.4286,8.529963
+136,Coventry North East,9.731139,8.938308
+137,Coventry North West,10.50824,6.9996896
+138,Coventry South,9.957386,2.8839788
+139,Crawley,8.8426,8.228758
+140,Crewe and Nantwich,9.742672,8.273921
+141,Croydon Central,7.5509577,8.174495
+142,Croydon North,8.577601,9.022997
+143,Croydon South,4.5612273,5.161198
+144,Cynon Valley,10.198458,1.7441479
+145,Dagenham and Rainham,8.929588,7.6234727
+146,Darlington,10.874539,5.1754007
+147,Dartford,7.309262,7.933208
+148,Daventry,7.229569,5.349321
+149,Delyn,9.929771,1.7080375
+150,Denton and Reddish,10.017057,5.7019534
+151,Derby North,10.256684,5.376542
+152,Derby South,10.136085,8.8013935
+153,Derbyshire Dales,7.4283323,1.7277267
+154,Devizes,6.9174542,4.5280876
+155,Dewsbury,10.294385,6.457562
+156,Don Valley,10.508912,6.655921
+157,Doncaster Central,10.0546,8.634848
+158,Doncaster North,11.233291,7.647532
+159,Dover,9.402797,5.543278
+160,Dudley North,10.76627,3.1686597
+161,Dudley South,10.688732,3.0190735
+162,Dulwich and West Norwood,3.1848946,5.068722
+163,Dwyfor Meirionnydd,9.4726925,1.2454609
+164,Ealing Central and Acton,3.290816,5.331109
+165,Ealing North,8.423663,8.532014
+166,"Ealing, Southall",12.109678,7.8901796
+167,Easington,11.141507,3.5013618
+168,East Devon,8.0050125,4.9947023
+169,East Ham,8.602824,9.195076
+170,East Hampshire,6.337986,4.062975
+171,East Surrey,4.8949213,5.399746
+172,East Worthing and Shoreham,8.043585,4.923087
+173,East Yorkshire,9.524911,4.958177
+174,Eastbourne,9.286872,5.6977687
+175,Eastleigh,7.188866,7.63889
+176,Eddisbury,7.468972,3.642775
+177,Edmonton,12.10052,8.257095
+178,Ellesmere Port and Neston,10.19189,4.142332
+179,Elmet and Rothwell,5.7582946,3.597398
+180,Eltham,6.285531,3.4122546
+181,Enfield North,9.793528,6.7662845
+182,"Enfield, Southgate",5.917178,3.48856
+183,Epping Forest,5.563611,3.721175
+184,Epsom and Ewell,4.601053,4.4435906
+185,Erewash,9.908129,5.983844
+186,Erith and Thamesmead,9.16277,7.9284773
+187,Esher and Walton,3.7661836,4.037222
+188,Exeter,9.066515,4.600431
+189,Fareham,6.023082,3.7684793
+190,Faversham and Mid Kent,7.213954,4.5670753
+191,Feltham and Heston,8.653269,9.180816
+192,Filton and Bradley Stoke,6.2529526,5.393768
+193,Finchley and Golders Green,3.981111,5.0366797
+194,Folkestone and Hythe,9.0311575,5.8332705
+195,Forest of Dean,8.400018,2.9147437
+196,Fylde,7.103246,2.0970201
+197,Gainsborough,9.531896,4.20642
+198,Garston and Halewood,10.513666,5.8862095
+199,Gateshead,11.047144,5.127302
+200,Gedling,8.3504,4.3741264
+201,Gillingham and Rainham,9.156648,6.314527
+202,Gloucester,8.598389,8.161652
+203,Gosport,8.118433,4.9300895
+204,Gower,7.1049247,1.8227481
+205,Grantham and Stamford,8.398891,6.7536664
+206,Gravesham,8.98378,6.642776
+207,Great Grimsby,11.568247,7.0655103
+208,Great Yarmouth,11.152175,6.8004637
+209,Greenwich and Woolwich,2.962953,5.6758795
+210,Guildford,4.8401384,3.3070939
+211,Hackney North and Stoke Newington,3.129862,5.4241896
+212,Hackney South and Shoreditch,3.113773,5.492047
+213,Halesowen and Rowley Regis,10.022492,4.0503583
+214,Halifax,10.35847,6.3750668
+215,Haltemprice and Howden,7.055441,2.5849168
+216,Halton,10.876003,5.456999
+217,Hammersmith,3.3332136,5.1809564
+218,Hampstead and Kilburn,3.2720056,4.659799
+219,Harborough,6.6675835,5.155755
+220,Harlow,8.818728,6.9528856
+221,Harrogate and Knaresborough,5.3382635,3.9802957
+222,Harrow East,7.070148,6.2071424
+223,Harrow West,6.8308077,6.353801
+224,Hartlepool,11.336133,4.9492784
+225,Harwich and North Essex,7.9966807,3.1969755
+226,Hastings and Rye,9.215255,5.7429814
+227,Havant,9.711569,4.424252
+228,Hayes and Harlington,9.3107,8.964887
+229,Hazel Grove,7.1383576,1.901605
+230,Hemel Hempstead,6.7638006,6.133211
+231,Hemsworth,10.756146,7.165209
+232,Hendon,7.6191483,8.333361
+233,Henley,4.487137,3.6686103
+234,Hereford and South Herefordshire,9.748376,5.920269
+235,Hertford and Stortford,4.729402,5.2672644
+236,Hertsmere,5.13514,4.4693494
+237,Hexham,7.3645144,1.6388469
+238,Heywood and Middleton,9.547062,7.2367997
+239,High Peak,9.329527,4.194292
+240,Hitchin and Harpenden,3.913253,3.7151198
+241,Holborn and St Pancras,3.0653026,4.712165
+242,Hornchurch and Upminster,6.4040995,5.7120385
+243,Hornsey and Wood Green,3.1981752,5.285176
+244,Horsham,5.078913,5.714877
+245,Houghton and Sunderland South,10.932301,5.242222
+246,Hove,4.9382877,4.031868
+247,Huddersfield,11.274757,4.874708
+248,Huntingdon,7.280331,7.577212
+249,Hyndburn,10.900691,6.3329625
+250,Ilford North,6.760267,6.25377
+251,Ilford South,8.685814,8.92832
+252,Ipswich,9.307057,8.016103
+253,Isle of Wight,8.389442,7.7849965
+254,Islington North,3.1249034,4.7591243
+255,Islington South and Finsbury,3.118185,4.5625257
+256,Islwyn,10.442035,2.0507953
+257,Jarrow,10.491267,3.6781573
+258,Keighley,9.83624,4.500058
+259,Kenilworth and Southam,5.0013237,2.6345422
+260,Kensington,3.1131759,4.3335867
+261,Kettering,8.734254,6.887298
+262,Kingston and Surbiton,4.202762,5.1879234
+263,Kingston upon Hull East,11.226474,7.525297
+264,Kingston upon Hull North,11.318513,7.607074
+265,Kingston upon Hull West and Hessle,11.312668,7.467821
+266,Kingswood,6.6397724,4.607172
+267,Knowsley,9.348759,7.79173
+268,Lancaster and Fleetwood,10.091785,2.229507
+269,Leeds Central,9.228121,8.965147
+270,Leeds East,10.017147,7.26563
+271,Leeds North East,4.812078,2.892399
+272,Leeds North West,6.8999424,1.6172177
+273,Leeds West,9.766774,7.0308404
+274,Leicester East,9.798657,8.898395
+275,Leicester South,12.275002,8.052701
+276,Leicester West,10.065874,8.797794
+277,Leigh,8.756509,7.4379454
+278,Lewes,7.358838,1.978045
+279,Lewisham East,6.4364543,6.324458
+280,Lewisham West and Penge,3.8475544,5.1832476
+281,"Lewisham, Deptford",3.0289652,5.577608
+282,Leyton and Wanstead,6.77765,6.3173203
+283,Lichfield,6.615554,3.5275443
+284,Lincoln,9.718065,7.8091455
+285,"Liverpool, Riverside",9.588162,3.0935388
+286,"Liverpool, Walton",12.10689,7.228916
+287,"Liverpool, Wavertree",9.853637,2.867835
+288,"Liverpool, West Derby",10.827568,5.819309
+289,Llanelli,11.026105,3.69781
+290,Loughborough,8.978807,4.233125
+291,Louth and Horncastle,10.100924,4.2938895
+292,Ludlow,8.712251,2.1654382
+293,Luton North,10.681912,7.477156
+294,Luton South,9.852277,8.865289
+295,Macclesfield,5.8222,3.3100648
+296,Maidenhead,4.1552405,3.9423864
+297,Maidstone and The Weald,6.886273,6.21565
+298,Makerfield,9.643467,6.0918064
+299,Maldon,6.991181,3.6083755
+300,Manchester Central,8.967895,8.906164
+301,"Manchester, Gorton",12.356951,7.7975903
+302,"Manchester, Withington",4.724736,2.8363159
+303,Mansfield,9.634945,8.054997
+304,Meon Valley,6.1683455,3.7323835
+305,Meriden,6.688538,5.283605
+306,Merthyr Tydfil and Rhymney,10.452737,1.9967661
+307,Mid Bedfordshire,5.28372,6.120941
+308,Mid Derbyshire,7.2136416,2.1957848
+309,Mid Dorset and North Poole,7.275491,2.0849917
+310,Mid Norfolk,8.517162,6.4160028
+311,Mid Sussex,5.052339,5.54231
+312,Mid Worcestershire,7.2912765,5.949482
+313,Middlesbrough,11.94046,7.1379504
+314,Middlesbrough South and East Cleveland,10.750036,4.522528
+315,Milton Keynes North,7.6552734,8.435517
+316,Milton Keynes South,7.629614,8.416711
+317,Mitcham and Morden,8.244782,7.9148846
+318,Mole Valley,4.687047,3.3596027
+319,Monmouth,7.31617,1.9537504
+320,Montgomeryshire,9.380857,1.319254
+321,Morecambe and Lunesdale,10.541582,4.4305296
+322,Morley and Outwood,6.576617,5.9672236
+323,Neath,10.205669,1.9061853
+324,New Forest East,7.8867216,3.2894232
+325,New Forest West,7.4791107,1.8453113
+326,Newark,8.801238,4.258764
+327,Newbury,5.241547,5.6147785
+328,Newcastle upon Tyne Central,12.277358,7.500666
+329,Newcastle upon Tyne East,9.868209,2.6667125
+330,Newcastle upon Tyne North,8.867797,3.9217863
+331,Newcastle-under-Lyme,10.634702,3.1878338
+332,Newport East,10.521545,3.423207
+333,Newport West,9.658587,3.5305576
+334,Newton Abbot,9.847758,4.4636307
+335,"Normanton, Pontefract and Castleford",9.503685,8.615117
+336,North Cornwall,9.233881,4.9653516
+337,North Devon,9.176845,5.0675406
+338,North Dorset,8.336365,3.0645778
+339,North Durham,10.460545,3.7674608
+340,North East Bedfordshire,5.3139925,6.1610584
+341,North East Cambridgeshire,9.694806,8.2758255
+342,North East Derbyshire,9.568853,4.178
+343,North East Hampshire,4.304499,3.995469
+344,North East Hertfordshire,5.6446524,3.8262296
+345,North East Somerset,7.111746,3.925547
+346,North Herefordshire,8.573038,2.584179
+347,North Norfolk,9.012605,1.9337399
+348,North Shropshire,8.503572,6.3623962
+349,North Somerset,5.634614,3.3959503
+350,North Swindon,8.322151,8.24566
+351,North Thanet,10.1063795,4.585002
+352,North Tyneside,9.551333,7.166937
+353,North Warwickshire,11.047296,6.0740814
+354,North West Cambridgeshire,7.7096095,8.431421
+355,North West Durham,10.151658,4.901795
+356,North West Hampshire,5.7795467,6.1974316
+357,North West Leicestershire,7.24242,5.987448
+358,North West Norfolk,10.91817,6.525404
+359,North Wiltshire,6.0831566,3.822459
+360,Northampton North,10.830671,7.0964723
+361,Northampton South,9.980561,8.520511
+362,Norwich North,9.947181,5.7876267
+363,Norwich South,9.429484,3.4651127
+364,Nottingham East,12.22825,7.5201826
+365,Nottingham North,11.919358,7.574469
+366,Nottingham South,9.934973,2.8640327
+367,Nuneaton,10.601697,7.0622253
+368,Ogmore,10.458949,2.1451101
+369,Old Bexley and Sidcup,6.3484406,3.838077
+370,Oldham East and Saddleworth,10.4615,6.56219
+371,Oldham West and Royton,11.922376,8.03172
+372,Orpington,5.3467693,2.854686
+373,Oxford East,6.2721014,6.3891883
+374,Oxford West and Abingdon,4.945539,3.006506
+375,Pendle,11.49417,6.662896
+376,Penistone and Stocksbridge,7.920443,3.2593846
+377,Penrith and The Border,8.747969,2.5352545
+378,Peterborough,9.627999,8.945963
+379,"Plymouth, Moor View",10.307546,5.843609
+380,"Plymouth, Sutton and Devonport",9.452604,7.3025193
+381,Pontypridd,10.084633,2.655123
+382,Poole,7.857858,4.8124824
+383,Poplar and Limehouse,2.9638603,5.658383
+384,Portsmouth North,8.673842,6.3891654
+385,Portsmouth South,10.1501465,5.1832485
+386,Preseli Pembrokeshire,9.2420845,1.804108
+387,Preston,11.940223,7.265584
+388,Pudsey,5.5496902,3.3048732
+389,Putney,3.4281387,4.118159
+390,Rayleigh and Wickford,6.487277,4.580435
+391,Reading East,6.374494,6.291557
+392,Reading West,7.898349,7.722854
+393,Redcar,11.114195,4.260155
+394,Redditch,11.317986,5.9960237
+395,Reigate,4.689551,4.512454
+396,Rhondda,10.243973,1.7126296
+397,Ribble Valley,7.0798354,4.965444
+398,Richmond (Yorks),7.2522388,4.5704536
+399,Richmond Park,3.3666074,4.1667027
+400,Rochdale,12.146203,8.096713
+401,Rochester and Strood,7.8523993,7.6065865
+402,Rochford and Southend East,9.663295,6.8746305
+403,Romford,6.4273405,5.735206
+404,Romsey and Southampton North,7.1293936,2.1496267
+405,Rossendale and Darwen,8.470668,5.561039
+406,Rother Valley,9.733954,5.853939
+407,Rotherham,11.605727,6.779027
+408,Rugby,10.448771,7.2207627
+409,"Ruislip, Northwood and Pinner",5.109365,2.6603608
+410,Runnymede and Weybridge,4.783069,4.347316
+411,Rushcliffe,4.689696,2.7364874
+412,Rutland and Melton,7.171669,4.9589734
+413,Saffron Walden,4.8683167,5.314422
+414,Salford and Eccles,7.6339707,8.347067
+415,Salisbury,6.603452,4.7069097
+416,Scarborough and Whitby,9.398168,5.1100025
+417,Scunthorpe,11.510951,7.1090117
+418,Sedgefield,10.794774,3.0244358
+419,Sefton Central,6.943849,2.015134
+420,Selby and Ainsty,7.2337813,5.768792
+421,Sevenoaks,5.439691,3.1349835
+422,Sheffield Central,9.622213,3.1110609
+423,Sheffield South East,10.273642,5.6906357
+424,"Sheffield, Brightside and Hillsborough",12.040643,8.196946
+425,"Sheffield, Hallam",6.5892024,1.7831666
+426,"Sheffield, Heeley",10.482486,4.919473
+427,Sherwood,8.621452,6.154876
+428,Shipley,6.217385,3.3726935
+429,Shrewsbury and Atcham,8.726275,5.8396544
+430,Sittingbourne and Sheppey,8.571724,7.7151833
+431,Skipton and Ripon,8.165206,3.3239648
+432,Sleaford and North Hykeham,7.3144817,7.4833503
+433,Slough,8.669064,9.110273
+434,Solihull,5.3143077,2.8562336
+435,Somerton and Frome,8.32674,5.9748645
+436,South Basildon and East Thurrock,8.914665,6.5997705
+437,South Cambridgeshire,4.683291,4.817341
+438,South Derbyshire,7.220794,5.992066
+439,South Dorset,9.941675,4.4043503
+440,South East Cambridgeshire,5.1666603,5.522325
+441,South East Cornwall,8.747213,2.6099858
+442,South Holland and The Deepings,9.911494,8.184198
+443,South Leicestershire,6.6864038,6.292735
+444,South Norfolk,7.1676784,5.2755513
+445,South Northamptonshire,5.361447,6.213246
+446,South Ribble,7.0661182,4.4589906
+447,South Shields,10.924807,3.5215743
+448,South Staffordshire,7.1340003,3.6299598
+449,South Suffolk,8.002763,3.2999396
+450,South Swindon,9.847557,8.285134
+451,South Thanet,10.351089,4.50051
+452,South West Bedfordshire,7.633448,7.677797
+453,South West Devon,7.9025955,3.4580302
+454,South West Hertfordshire,4.248463,4.1060944
+455,South West Norfolk,9.807829,7.947209
+456,South West Surrey,4.3016024,3.699219
+457,South West Wiltshire,8.364613,6.2512975
+458,"Southampton, Itchen",8.896353,7.504036
+459,"Southampton, Test",10.010508,7.659625
+460,Southend West,6.2901387,3.3792045
+461,Southport,10.544844,4.311244
+462,Spelthorne,6.4471693,5.6036906
+463,St Albans,3.8414402,3.7982686
+464,St Austell and Newquay,8.607783,7.116026
+465,St Helens North,10.263885,6.110619
+466,St Helens South and Whiston,9.879333,7.232543
+467,St Ives,8.901724,2.1131399
+468,Stafford,8.605499,4.211361
+469,Staffordshire Moorlands,8.954707,1.7608256
+470,Stalybridge and Hyde,9.914673,5.902329
+471,Stevenage,8.260544,6.0066957
+472,Stockport,9.085969,3.7296183
+473,Stockton North,11.204809,5.0830784
+474,Stockton South,8.491089,4.3042707
+475,Stoke-on-Trent Central,11.590367,6.9428363
+476,Stoke-on-Trent North,11.190163,7.6316013
+477,Stoke-on-Trent South,11.326491,6.865391
+478,Stone,7.2279086,2.140923
+479,Stourbridge,9.606476,4.039637
+480,Stratford-on-Avon,6.1705723,3.6042001
+481,Streatham,3.1044455,5.4078865
+482,Stretford and Urmston,8.690915,4.0102706
+483,Stroud,7.031792,4.8877096
+484,Suffolk Coastal,9.410952,4.155039
+485,Sunderland Central,11.101258,5.129287
+486,Surrey Heath,4.825719,5.0947866
+487,Sutton Coldfield,5.0628505,2.6564398
+488,Sutton and Cheam,6.129977,5.3757715
+489,Swansea East,10.614854,3.7667909
+490,Swansea West,9.838053,2.0428903
+491,Tamworth,10.926384,6.0288277
+492,Tatton,4.936875,2.5884516
+493,Taunton Deane,8.231073,7.5723095
+494,Telford,10.369934,7.608345
+495,Tewkesbury,6.3654523,5.638224
+496,The Cotswolds,6.2433605,3.8918076
+497,The Wrekin,8.947033,4.246229
+498,Thirsk and Malton,8.970633,4.9087424
+499,Thornbury and Yate,6.752301,3.8628917
+500,Thurrock,8.548879,8.531682
+501,Tiverton and Honiton,8.956541,5.4528637
+502,Tonbridge and Malling,5.338199,3.978101
+503,Tooting,3.2877402,4.4263053
+504,Torbay,9.413809,5.638119
+505,Torfaen,10.74658,3.0976691
+506,Torridge and West Devon,9.203222,5.0432425
+507,Totnes,8.857625,2.0344791
+508,Tottenham,8.738173,9.0315275
+509,Truro and Falmouth,8.266636,3.1204836
+510,Tunbridge Wells,5.31773,3.884773
+511,Twickenham,3.4043286,4.1663136
+512,Tynemouth,8.669217,3.927488
+513,Uxbridge and South Ruislip,6.5117674,5.739074
+514,Vale of Clwyd,10.013344,1.6279438
+515,Vale of Glamorgan,8.211142,4.6604943
+516,Vauxhall,3.0888011,5.45328
+517,Wakefield,10.699772,7.050614
+518,Wallasey,10.726457,3.9244044
+519,Walsall North,11.367749,7.611387
+520,Walsall South,11.866624,7.805541
+521,Walthamstow,7.478216,7.934851
+522,Wansbeck,10.9863615,3.7875762
+523,Wantage,5.281358,6.243337
+524,Warley,12.044237,7.790549
+525,Warrington North,10.862383,6.0059648
+526,Warrington South,6.589019,6.094353
+527,Warwick and Leamington,5.0166545,3.2943451
+528,Washington and Sunderland West,10.968012,5.125704
+529,Watford,7.403045,8.126428
+530,Waveney,10.692633,6.217962
+531,Wealden,6.7042274,4.397094
+532,Weaver Vale,9.540666,3.5311527
+533,Wellingborough,9.551287,8.374572
+534,Wells,8.759337,5.7885947
+535,Welwyn Hatfield,6.657792,6.0319676
+536,Wentworth and Dearne,10.927175,7.509575
+537,West Bromwich East,11.780529,7.5476117
+538,West Bromwich West,11.57716,7.8366766
+539,West Dorset,8.398204,2.9925368
+540,West Ham,8.61511,9.201771
+541,West Lancashire,9.196956,4.1537585
+542,West Suffolk,8.29022,7.57156
+543,West Worcestershire,7.5728774,3.0956318
+544,Westminster North,3.0468507,4.564693
+545,Westmorland and Lonsdale,8.669837,2.3626661
+546,Weston-Super-Mare,8.634028,7.451327
+547,Wigan,9.96522,7.5603046
+548,Wimbledon,3.4866273,4.039902
+549,Winchester,4.8473377,2.6909611
+550,Windsor,4.312272,4.1086845
+551,Wirral South,7.1113653,1.6952327
+552,Wirral West,7.069871,1.6605133
+553,Witham,7.052697,4.2526116
+554,Witney,5.427714,5.701539
+555,Woking,4.7483945,4.767571
+556,Wokingham,4.5903487,5.000238
+557,Wolverhampton North East,11.62071,7.029407
+558,Wolverhampton South East,11.674274,7.63029
+559,Wolverhampton South West,10.018017,2.874214
+560,Worcester,8.88641,6.0732875
+561,Workington,9.3503,2.0717611
+562,Worsley and Eccles South,9.6626,6.970889
+563,Worthing West,8.123022,4.859301
+564,Wrexham,10.263415,1.86207
+565,Wycombe,6.701971,6.1794972
+566,Wyre Forest,9.571853,5.737203
+567,Wyre and Preston North,6.2103066,3.365874
+568,Wythenshawe and Sale East,9.618353,6.9444284
+569,Yeovil,8.601592,7.2796745
+570,Ynys Môn,9.501857,1.4985678
+571,York Central,9.1147175,3.8082302
+572,York Outer,6.639847,2.7887168

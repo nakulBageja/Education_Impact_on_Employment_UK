@@ -1,0 +1,11 @@
+Principal Component 1,Principal Component 2,Occupation_Code,Cluster,Occupation_Code_Description
+6.756842284338925,-0.08342590762068963,-8,1,Does not apply
+-0.500807153566669,0.40669345289249964,1,0,"1. Managers, directors and senior officials"
+-0.6859522071913821,2.2133373641801963,2,2,2. Professional occupations
+-0.5944325673217054,0.4925166553340686,3,0,3. Associate professional and technical occupations
+-0.7135531373546657,-0.31028491757347487,4,0,4. Administrative and secretarial occupations
+-0.4824471089761418,-0.5239300796096648,5,0,5. Skilled trades occupations
+-0.7021193539178957,-0.34259111435836664,6,0,"6. Caring, leisure and other service occupations"
+-1.2215898174586637,-0.5118201443402404,7,0,7. Sales and customer service occupations
+-1.0759451341501978,-0.6516456957167359,8,0,"8. Process, plant and machine operatives"
+-0.7799958044016041,-0.6888496131875936,9,0,9. Elementary occupations

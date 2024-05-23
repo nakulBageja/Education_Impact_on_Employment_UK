@@ -1,0 +1,11 @@
+Principal Component 1,Principal Component 2,Occupation_Code,Occupation_Code_Description
+5.803891475439049,0.5616885981918917,-8,Unemployed or Student Living Away (During Term)
+-0.511694325183199,0.6170495727598768,1,"Managers, directors and senior officials"
+-1.8751736855538936,2.332095991571869,2,Professional occupations
+-0.7791265005442742,0.8827715072102558,3,Associate professional and technical occupations
+-0.5674309676318884,-0.2253034717996471,4,Administrative and secretarial occupations
+0.41284255846365564,-0.5982898772399365,5,Skilled trades occupations
+-0.44197119247101385,-0.13005097292275758,6,"Caring, leisure and other service occupations"
+-1.293098691088327,-0.9522074352657088,7,Sales and customer service occupations
+-0.7082588289629487,-1.268265501474676,8,"Process, plant and machine operatives"
+-0.03997984246716141,-1.2194884110311663,9,Elementary occupations
